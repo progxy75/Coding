@@ -15,7 +15,7 @@ headerTemplate.innerHTML = `
                 <span>Learn</span>
             </a>
         </li>
-        <li><a href="https://codeskiller.codingblocks.com">
+        <li><a href="#">
                 <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconMonitor.webp" alt="Practice">
                 <span>Practice</span></a></li>
     
