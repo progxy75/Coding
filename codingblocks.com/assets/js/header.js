@@ -108,10 +108,7 @@ headerTemplate.innerHTML = `
                                                     <!-- <li><a href="#tabMM9" class="lstmmtab mmtabblue"><img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/tabindtraining.svg"> Industrial 
                     Traning</a></li> -->
                                                     <!-- adding for scholarship test info  -->
-                                                    <li><a href="#tabMM10" class="lstmmtab mmtabblue"><img
-                                                                src="https://cb3img.s3.ap-south-1.amazonaws.com/img/tabindtraining.svg">
-                                                            Scholarship Test
-                                                        </a></li>
+                                                    
                                                     <!-- till here -->
                                                 </ul>
 
@@ -963,72 +960,7 @@ headerTemplate.innerHTML = `
 
 
                                                 <!-- adding mmtab10 -->
-                                                <div id="tabMM10" class="mmtab">
-                                                    <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/mmtabarrowsel.svg"
-                                                        class="mmtabSel" alt="">
-                                                    <h3 class="tabhead"><img class="headicon"
-                                                            src="https://cb3img.s3.ap-south-1.amazonaws.com/img/tabindtraining.svg"
-                                                            alt="">
-                                                        Scholarship
-                                                        Test</h3>
-                                                    <p class="txtwhite">Coding Blocks CAST or CB Admission
-                                                        and Scholarship Test is intended
-                                                        to motivate and assist aspiring coders by providing
-                                                        Fee scholarships up to 100%,
-                                                        Wildcraft bag, T-shirt and Goodies when you take the
-                                                        test.</p>
-                                                    <div class="coursemenucontainer">
-                                                        <div class="coursesmcontaner">
-                                                            <div class="mmsmbox"
-                                                                onclick="window.location.href='scholarship.html';">
-                                                                <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/tabindtraining.svg"
-                                                                    alt="scholarship image">
-                                                                <div class="smboxdetail">
-                                                                    Scholarship Test
-                                                                    <div class="livepan"><img
-                                                                            src="https://cb3img.s3.ap-south-1.amazonaws.com/img/new-icon-varunsir.png"
-                                                                            height="20px" alt=""></div>
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
-
-
-                                                        <hr class="mmbdrtop" />
-                                                        <!-- ======= mm accordian Section ======= -->
-                                                        <div class="mmaccordion">
-                                                            <h5>Confused on which course to choose?</h5>
-
-                                                            <div class="row">
-
-                                                                <div class="clearfix">
-                                                                    <a href="classroom-programs.html"
-                                                                        class="btn btn-primary mt-3 scrollto">Explore
-                                                                        all Classroom courses <img
-                                                                            src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg"
-                                                                            alt="Explore our Classroom courses"></a>
-                                                                    <a href="live-courses.html"
-                                                                        class="btn btn-primary mt-3 scrollto">Explore
-                                                                        all
-                                                                        Live interactive courses <img
-                                                                            src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg"
-                                                                            alt="Explore our Live interactive courses"></a>
-                                                                    <a href="online-courses.html"
-                                                                        class="btn btn-primary mt-3 scrollto">Explore
-                                                                        all
-                                                                        Online guided learning courses <img
-                                                                            src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg"
-                                                                            alt="Explore our Online guided learning courses"></a>
-                                                                </div>
-
-
-                                                            </div>
-                                                            <!-- End mm accordian Section -->
-
-
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                
 
                                                 <!-- adding mmtab11 -->
                                                 <div id="tabMM11" class="mmtab">
@@ -1359,7 +1291,7 @@ headerTemplate.innerHTML = `
                     aria-haspopup="true" aria-expanded="false">Community and events</a>
                 <ul class="dropdown-menu">
                     <li><a href="community-cb-superhero.html">CB Super hero Community</a></li>
-                    <li><a href="cb-chapter-in-college.html">Request Chapter in college</a></li>
+                    
                     <li><a href="cb-workshop-in-college.html">Request Workshop in college</a></li>
                 </ul>
             </li>
@@ -1368,21 +1300,13 @@ headerTemplate.innerHTML = `
                 <ul class="dropdown-menu">
                     <li><a href="https://codeskiller.codingblocks.com/">Code Skiller</a></li>
                     <li><a href="https://hack.codingblocks.com/app/contests">Coding contests</a></li>
-                    <li><a href="trending-articles-and-webinars-in-coding.html">Trending webinars and
-                            articles</a></li>
-                    <li><a href="https://blog.codingblocks.com/">Blogs</a></li>
+                    
+                    <li><a href="#">Blogs</a></li>
 
                 </ul>
             </li>
-            <!--         <li class="drop-down dropdown"><a href="javascript:;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Career bootcamp <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/new-icon-varunsir.png" alt="new icon"> <small>Study Now - Pay Later</small></a>
-<ul class="dropdown-menu">
-  <li><a href="./careerbootcamp-professionals.html">For Working professionals</a></li>              
-  <li><a href="./study-now-pay-later.html">For College students</a></li> 
-  
-</ul>
-</li> -->
-            <li style="padding-top: 5px; padding: bottom 0;" class="loginbtnnav"><a href="#"
-                    class="get-started-btn scrollto">Login / Signup</a></li>
+            
+            
         </ul>
     </nav><!-- .nav-menu -->
 </div>
@@ -1402,10 +1326,8 @@ headerTemplate.innerHTML = `
                 <img class="mbtpicon" src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconMonitor.webp"
                     alt="Practice">
                 <span>Practice</span></a></li>
-        <li><a href="https://hire.codingblocks.com">
-                <img class="mbtpicon" src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconHire.webp"
-                    alt="Hire">
-                <span>Get Hired</span></a></li>
+        
+                
         <li><a href="https://ide.codingblocks.com">
                 <img class="mbtpicon" src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconIDE.webp"
                     alt="IDE">
@@ -2404,71 +2326,7 @@ headerTemplate.innerHTML = `
 
 
                                             <!-- adding mmtab10 -->
-                                            <div id="mbtabMM10" class="mmtab">
-                                                <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/mmtabarrowsel.svg"
-                                                    class="mmtabSel" alt="">
-                                                <h3 class="tabhead"><img class="headicon"
-                                                        src="https://cb3img.s3.ap-south-1.amazonaws.com/img/tabindtraining.svg"
-                                                        alt="">
-                                                    Scholarship
-                                                    Test</h3>
-                                                <p class="txtwhite">Coding Blocks CAST or CB Admission and
-                                                    Scholarship Test is intended to
-                                                    motivate and assist aspiring coders by providing Fee
-                                                    scholarships up to 100%, Wildcraft
-                                                    bag, T-shirt and Goodies when you take the test.</p>
-                                                <div class="coursemenucontainer">
-                                                    <div class="coursesmcontaner">
-                                                        <div class="mmsmbox"
-                                                            onclick="window.location.href='scholarship.html';">
-                                                            <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/tabindtraining.svg"
-                                                                alt="scholarship image">
-                                                            <div class="smboxdetail">
-                                                                Scholarship Test
-                                                                <div class="livepan"><img
-                                                                        src="https://cb3img.s3.ap-south-1.amazonaws.com/img/new-icon-varunsir.png"
-                                                                        height="20px" alt=""></div>
-                                                            </div>
-                                                        </div>
-
-                                                    </div>
-
-
-                                                    <hr class="mmbdrtop" />
-                                                    <!-- ======= mm accordian Section ======= -->
-                                                    <div class="mmaccordion">
-                                                        <h5>Confused on which course to choose?</h5>
-
-                                                        <div class="row">
-
-                                                            <div class="clearfix">
-                                                                <a href="classroom-programs.html"
-                                                                    class="btn btn-primary mt-3 scrollto">Explore
-                                                                    all Classroom courses <img
-                                                                        src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg"
-                                                                        alt="Explore our Classroom courses"></a>
-                                                                <a href="live-courses.html"
-                                                                    class="btn btn-primary mt-3 scrollto">Explore
-                                                                    all Live
-                                                                    interactive courses <img
-                                                                        src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg"
-                                                                        alt="Explore our Live interactive courses"></a>
-                                                                <a href="online-courses.html"
-                                                                    class="btn btn-primary mt-3 scrollto">Explore
-                                                                    all
-                                                                    Online guided learning courses <img
-                                                                        src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg"
-                                                                        alt="Explore our Online guided learning courses"></a>
-                                                            </div>
-
-
-                                                        </div>
-                                                        <!-- End mm accordian Section -->
-
-
-                                                    </div>
-                                                </div>
-                                            </div>
+                                          
 
                                             <!-- adding mmtab11 -->
                                             <div id="mbtabMM11" class="mmtab">
@@ -2640,7 +2498,7 @@ headerTemplate.innerHTML = `
                 aria-expanded="false">Community and events</a>
             <ul class="dropdown-menu">
                 
-                
+            <li><a href="community-cb-superhero.html">CB Super hero Community</a></li>
                 <li><a href="cb-workshop-in-college.html">Request Workshop in college</a></li>
             </ul>
         </li>
@@ -2649,8 +2507,7 @@ headerTemplate.innerHTML = `
             <ul class="dropdown-menu">
                 <li><a href="https://codeskiller.codingblocks.com/">Code Skiller</a></li>
                 <li><a href="https://codeskiller.codingblocks.com/">Coding contests</a></li>
-                <li><a href="#">Trending webinars and
-                        articles</a></li>
+                
                 <li><a href="#">Blogs</a></li>
             </ul>
         </li>
