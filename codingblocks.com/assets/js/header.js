@@ -4,7 +4,7 @@ const headerTemplate = document.querySelector('#header');
 headerTemplate.innerHTML = `
 <div class="container d-flex align-items-center">
 <a href="index.html" class="logo mr-auto"><img
-        src="/assets/image.png" alt="BIBASWAN EDUCATIONAL FOUNDATION"
+        src="/assets/image (1).png" alt="BIBASWAN EDUCATIONAL FOUNDATION"
         class="img-fluid"></a>
 
 <nav class="nav-menu topheadnav">
@@ -31,7 +31,7 @@ headerTemplate.innerHTML = `
 <div class="btmheadnav">
 <div class="container d-flex">
     <a href="index.html" class="logo btmlogo mr-auto"><img
-            src="/assets/image.png" alt="Bibaswan Educational Foundation"
+            src="/assets/image (1).png" alt="Bibaswan Educational Foundation"
             class="img-fluid"></a>
     <nav class="nav-menu ml-auto">
         <ul>
