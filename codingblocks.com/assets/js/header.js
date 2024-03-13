@@ -4,7 +4,7 @@ const headerTemplate = document.querySelector('#header');
 headerTemplate.innerHTML = `
 <div class="container d-flex align-items-center">
 <a href="index.html" class="logo mr-auto"><img
-        src="https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp" alt="Coding Blocks"
+        src="/assets/image.png" alt="BIBASWAN EDUCATIONAL FOUNDATION"
         class="img-fluid"></a>
 
 <nav class="nav-menu topheadnav">
@@ -18,25 +18,20 @@ headerTemplate.innerHTML = `
         <li><a href="https://codeskiller.codingblocks.com">
                 <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconMonitor.webp" alt="Practice">
                 <span>Practice</span></a></li>
-        <li><a href="https://hire.codingblocks.com">
-                <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconHire.webp" alt="Hire">
-                <span>Get Hired</span></a></li>
+    
         <li><a href="https://ide.codingblocks.com">
                 <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconIDE.webp" alt="IDE">
                 <span>IDE</span></a></li>
     </ul>
 </nav><!-- .nav-menu -->
 
-<a href="https://codingblocks.com/login.html" class="get-started-btn scrollto">Login / Signup</a>
-<button class="navbar-toggler" type="button">
-    <span class="bar"></span>
-</button>
+
 </div>
 
 <div class="btmheadnav">
 <div class="container d-flex">
     <a href="index.html" class="logo btmlogo mr-auto"><img
-            src="https://cb3img.s3.ap-south-1.amazonaws.com/img/cblogo.webp" alt="Coding Blocks"
+            src="/assets/image.png" alt="Bibaswan Educational Foundation"
             class="img-fluid"></a>
     <nav class="nav-menu ml-auto">
         <ul>
@@ -2644,8 +2639,8 @@ headerTemplate.innerHTML = `
         <li class="drop-down dropdown"><a href="javascript:;" data-toggle="dropdown" aria-haspopup="true"
                 aria-expanded="false">Community and events</a>
             <ul class="dropdown-menu">
-                <li><a href="community-cb-superhero.html">CB Super hero Community</a></li>
-                <li><a href="cb-chapter-in-college.html">Request Chapter in college</a></li>
+                
+                
                 <li><a href="cb-workshop-in-college.html">Request Workshop in college</a></li>
             </ul>
         </li>
@@ -2653,13 +2648,13 @@ headerTemplate.innerHTML = `
                 aria-expanded="false">Free learning resources</a>
             <ul class="dropdown-menu">
                 <li><a href="https://codeskiller.codingblocks.com/">Code Skiller</a></li>
-                <li><a href="https://hack.codingblocks.com/app/contests">Coding contests</a></li>
-                <li><a href="trending-articles-and-webinars-in-coding.html">Trending webinars and
+                <li><a href="https://codeskiller.codingblocks.com/">Coding contests</a></li>
+                <li><a href="#">Trending webinars and
                         articles</a></li>
-                <li><a href="https://blog.codingblocks.com/">Blogs</a></li>
+                <li><a href="#">Blogs</a></li>
             </ul>
         </li>
-        <li><a href="https://codeskiller.codingblocks.com/">Career bootcamp</a></li>
+        <li><a href="#">Career bootcamp</a></li>
     </ul>
 </nav><!-- .nav-menu -->
 </div>
