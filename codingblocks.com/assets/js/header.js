@@ -1230,7 +1230,7 @@ headerTemplate.innerHTML = `
 
                                                         </div>
 
-                                                        <!-- <a href="https://online.codingblocks.com/courses" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
+                                                        <!-- <a href="#" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
 
                                                         <hr class="mmbdrtop" />
                                                         <!-- ======= mm accordian Section ======= -->
@@ -1290,16 +1290,16 @@ headerTemplate.innerHTML = `
             <li class="drop-down dropdown"><a href="javascript:;" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">Community and events</a>
                 <ul class="dropdown-menu">
-                    <li><a href="community-cb-superhero.html">CB Super hero Community</a></li>
+                    <li><a href="community-cb-superhero.html">B.E.F Super hero Community</a></li>
                     
-                    <li><a href="cb-workshop-in-college.html">Request Workshop in college</a></li>
+                    <li><a href="cb-workshop-in-college.html">Request Workshop in Institutions</a></li>
                 </ul>
             </li>
             <li class="drop-down dropdown"><a href="javascript:;" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">Free learning resources</a>
                 <ul class="dropdown-menu">
-                    <li><a href="https://codeskiller.codingblocks.com/">Code Skiller</a></li>
-                    <li><a href="https://hack.codingblocks.com/app/contests">Coding contests</a></li>
+                    <li><a href="#">Code Skiller</a></li>
+                    <li><a href="#">Coding contests</a></li>
                     
                     <li><a href="#">Blogs</a></li>
 
@@ -1322,13 +1322,13 @@ headerTemplate.innerHTML = `
                 <span>Learn</span>
             </a>
         </li>
-        <li><a href="https://hack.codingblocks.com">
+        <li><a href="#">
                 <img class="mbtpicon" src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconMonitor.webp"
                     alt="Practice">
                 <span>Practice</span></a></li>
         
                 
-        <li><a href="https://ide.codingblocks.com">
+        <li><a href="#">
                 <img class="mbtpicon" src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconIDE.webp"
                     alt="IDE">
                 <span>IDE</span></a></li>
@@ -2190,7 +2190,7 @@ headerTemplate.innerHTML = `
 
                                                     </div>
 
-                                                    <!-- <a href="https://online.codingblocks.com/courses" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
+                                                    <!-- <a href="#" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
 
                                                     <hr class="mmbdrtop" />
                                                     <!-- ======= mm accordian Section ======= -->
@@ -2283,7 +2283,7 @@ headerTemplate.innerHTML = `
 
                                                     </div>
 
-                                                    <!-- <a href="https://online.codingblocks.com/courses" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
+                                                    <!-- <a href="#" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
 
                                                     <hr class="mmbdrtop" />
                                                     <!-- ======= mm accordian Section ======= -->
@@ -2369,7 +2369,7 @@ headerTemplate.innerHTML = `
 
                                                     </div>
 
-                                                    <!-- <a href="https://online.codingblocks.com/courses" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
+                                                    <!-- <a href="#" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
 
                                                     <hr class="mmbdrtop" />
                                                     <!-- ======= mm accordian Section ======= -->
@@ -2441,7 +2441,7 @@ headerTemplate.innerHTML = `
 
                                                     </div>
 
-                                                    <!-- <a href="https://online.codingblocks.com/courses" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
+                                                    <!-- <a href="#" class="btn btn-primary btninline">Explore more Bootcamp<img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/arrowright-w.svg" alt="Explore"></a> -->
 
                                                     <hr class="mmbdrtop" />
                                                     <!-- ======= mm accordian Section ======= -->
@@ -2505,8 +2505,8 @@ headerTemplate.innerHTML = `
         <li class="drop-down dropdown"><a href="javascript:;" data-toggle="dropdown" aria-haspopup="true"
                 aria-expanded="false">Free learning resources</a>
             <ul class="dropdown-menu">
-                <li><a href="https://codeskiller.codingblocks.com/">Code Skiller</a></li>
-                <li><a href="https://codeskiller.codingblocks.com/">Coding contests</a></li>
+                <li><a href="#">Code Skiller</a></li>
+                <li><a href="#">Coding contests</a></li>
                 
                 <li><a href="#">Blogs</a></li>
             </ul>
