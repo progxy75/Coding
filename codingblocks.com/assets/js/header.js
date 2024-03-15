@@ -19,7 +19,7 @@ headerTemplate.innerHTML = `
                 <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconMonitor.webp" alt="Practice">
                 <span>Practice</span></a></li>
     
-        <li><a href="https://ide.codingblocks.com">
+        <li><a href="#">
                 <img src="https://cb3img.s3.ap-south-1.amazonaws.com/img/iconIDE.webp" alt="IDE">
                 <span>IDE</span></a></li>
     </ul>
